@@ -30,6 +30,10 @@ Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning an
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+## 📈 Contributions
+
+![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StathisKotanidis&theme=default)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
