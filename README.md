@@ -32,7 +32,7 @@ Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning an
 
 ## 📈 Contributions
 
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=StathisKotanidis&theme=default)
+![snake gif](https://github.com/StathisKotanidis/StathisKotanidis/blob/output/github-contribution-grid-snake.svg)
 
 
 
