@@ -25,6 +25,9 @@ Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning an
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StathisKotanidis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StathisKotanidis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+#Codewars rank
+![Codewars](https://github.r2v.ch/codewars?user=stathiskotanidis&stroke=COLOR)
+
 # 🔗 Socials
 <a href="https://github.com/StathisKotanidis">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
