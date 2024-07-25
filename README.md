@@ -35,7 +35,7 @@ Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning an
 
 ## 📈 Contributions
 
-![snake gif](https://github.com/StathisKotanidis/StathisKotanidis/blob/output/github-contribution-grid-snake.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
