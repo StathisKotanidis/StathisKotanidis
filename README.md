@@ -33,9 +33,7 @@ Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning an
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-## 📈 Contributions
 
-![snake gif](https://github.com/StathisKotanidis/StathisKotanidis/blob/output/github-contribution-grid-snake.gif)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
