@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-Hello! 👋 I'm Stathis, a budding web developer, with a passion for learning and creating beautiful, functional web applications. 🌐
+Hello! 👋 I'm Stathis, a software engineer with a passion for learning and creating beautiful, functional web applications. 🌐
 
 <br>
 
