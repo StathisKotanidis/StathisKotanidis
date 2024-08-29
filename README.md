@@ -38,9 +38,9 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 ![Codewars](https://github.r2v.ch/codewars?user=stathiskotanidis&stroke=COLOR)
 
 # 🔗 Socials
-<a href="https://github.com/StathisKotanidis">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
+
+<a href="https://www.linkedin.com/in/stathis-kotanidis/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
+<a href="https://github.com/StathisKotanidis"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
 
 
 
