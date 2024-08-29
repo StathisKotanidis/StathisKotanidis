@@ -8,9 +8,9 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 
 🎓 Studied computer science in University of Ioannina, Greece.
 
-🛠️ I’m currently working on improving my frontend skills such as HTML/CSS/Javascript.
+🛠️ I’m currently working on improving my skills in Javascript.
 
-🌱 I’m currently learning vanilla Javascript.
+🌱 I’m currently learning  Javascript APIs.
 
 ⚡ Fun fact: It’s all 0’s and 1’s.
 
@@ -24,6 +24,7 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 ![](https://github-readme-stats.vercel.app/api?username=StathisKotanidis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StathisKotanidis&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StathisKotanidis&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/html.svg" width="50"></a>
 
 # Codewars ⚔️
 ![Codewars](https://github.r2v.ch/codewars?user=stathiskotanidis&stroke=COLOR)
