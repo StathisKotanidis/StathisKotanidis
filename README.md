@@ -10,7 +10,7 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 
 🛠️ I’m currently working on improving my skills in Javascript.
 
-🌱 I’m currently learning  Javascript APIs.
+🌱 I’m currently learning  React.
 
 ⚡ Fun fact: It’s all 0’s and 1’s.
 
