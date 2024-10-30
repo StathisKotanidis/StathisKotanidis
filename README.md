@@ -28,6 +28,8 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/tailwindcss-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/expressjs-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=StathisKotanidis&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StathisKotanidis&theme=dark&hide_border=false)<br/>
