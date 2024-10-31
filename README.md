@@ -8,9 +8,9 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 
 🎓 Studied computer science in University of Ioannina, Greece.
 
-🛠️ I’m currently working on improving my skills in Javascript.
+🛠️ I’m currently working on improving my skills in React.
 
-🌱 I’m currently learning  React.
+🌱 I’m currently learning  Redux in React.
 
 ⚡ Fun fact: It’s all 0’s and 1’s.
 
