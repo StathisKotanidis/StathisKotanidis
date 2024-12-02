@@ -8,7 +8,7 @@ Hello! 👋 I'm Stathis, a software engineer with a passion for learning and cre
 
 🎓 Studied computer science in University of Ioannina, Greece.
 
-🛠️ I’m currently working on improving my skills in React.
+🛠️ I’m currently working on a fullstack application, called Vibify.
 
 🌱 I’m currently learning  BackEnd Technologies.
 
